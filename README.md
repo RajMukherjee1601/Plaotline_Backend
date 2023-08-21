@@ -52,7 +52,8 @@ python app.py
 
 #service_calculate_bill
 
-![Total service](https://github.com/RajMukherjee1601/Plaotline_Backend/assets/87653848/85b61f08-b70f-45f6-8c7d-3e38081b3156)
+![bill](https://github.com/RajMukherjee1601/Plaotline_Backend/assets/87653848/8a18f232-ba80-4d0f-8322-bb22af5963f4)
+
 
 #product_confirm_order
 
@@ -60,3 +61,7 @@ python app.py
 
 #product_clear
 ![remove ](https://github.com/RajMukherjee1601/Plaotline_Backend/assets/87653848/52008873-be8c-4bf8-aa8d-0e0b55ca9606)
+
+#Service Clear
+![123456](https://github.com/RajMukherjee1601/Plaotline_Backend/assets/87653848/0e939a8e-c579-4c00-982a-7b59fd4a8179)
+
