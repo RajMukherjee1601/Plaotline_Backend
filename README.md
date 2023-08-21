@@ -24,6 +24,8 @@ python app.py
 
 #Sign up
 ![signup](https://github.com/RajMukherjee1601/Plaotline_Backend/assets/87653848/2728e4ab-e829-45b8-b49c-6c49af375612)
+![signup](https://github.com/RajMukherjee1601/Plaotline_Backend/assets/87653848/147d387e-a1f5-4907-8bf5-ec51a55fffe9)
+
 #product_insert
 ![insert product](https://github.com/RajMukherjee1601/Plaotline_Backend/assets/87653848/d8184376-1681-4c5f-a8f8-751806fdcbd2)
 ![insert product Output](https://github.com/RajMukherjee1601/Plaotline_Backend/assets/87653848/555850c0-1f24-437c-ad26-b69388a798f0)
