@@ -211,10 +211,6 @@ def confirm_product_order():
     try:
         data = request.json
         if data.get("value").lower() == "yes":
-            response = calculate_product_bill()
-            print(response[0])
-            # clear_data()
-            # return jsonify({"Your Order has been confirmed with the bill value of ": amount["total_bill"]}), 200
             return "Your Order is confirmed", 200
         else:
             return "Your Order is not confirmed", 200
@@ -227,10 +223,6 @@ def confirm_service_order():
     try:
         data = request.json
         if data.get("value").lower() == "yes":
-            response = calculate_service_bill()
-            print(response[0])
-            # clear_data()
-            # return jsonify({"Your Order has been confirmed with the bill value of ": amount["total_bill"]}), 200
             return "Your Order is confirmed", 200
         else:
             return "Your Order is not confirmed", 200
