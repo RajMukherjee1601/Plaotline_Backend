@@ -2,15 +2,15 @@
 
 prerequisite for python
 
-pip install Flask
+--pip install Flask
 
-pip install pymongo
+--pip install pymongo
 
 prerequisite for Node.js
 
-npm init -y
+--npm init -y
 
-npm install express mongodb
+--npm install express mongodb
 
 
 #Command to activate Node js
