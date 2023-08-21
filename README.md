@@ -30,7 +30,9 @@ python app.py
 
 #service_insert
 ![insert service](https://github.com/RajMukherjee1601/Plaotline_Backend/assets/87653848/fe0e7879-869a-41df-a4c4-18ba3aad44c4)
-![insert service O](https://github.com/RajMukherjee1601/Plaotline_Backend/assets/87653848/d2f3a6aa-8e2c-4634-958a-e92633866590)
+![insert](https://github.com/RajMukherjee1601/Plaotline_Backend/assets/87653848/5f9156d8-85e0-40d8-a24f-4f5fd386c552)
+
+
 
 #product_retrieve
 ![retrive insert](https://github.com/RajMukherjee1601/Plaotline_Backend/assets/87653848/f23a07db-88e2-4e9d-a570-661b79fbc972)
@@ -45,7 +47,8 @@ python app.py
 
 #Service Remove
 ![remove Service](https://github.com/RajMukherjee1601/Plaotline_Backend/assets/87653848/ee8dcb48-f685-48cb-b40a-f10e2758c4b7)
-![remove service Output](https://github.com/RajMukherjee1601/Plaotline_Backend/assets/87653848/f3ce3c79-9cca-4f30-b7d7-68506733b61f)
+![remove](https://github.com/RajMukherjee1601/Plaotline_Backend/assets/87653848/3258483c-aaeb-4898-8603-79e962708bac)
+
 
 #product_calculate_bill
 ![Total product](https://github.com/RajMukherjee1601/Plaotline_Backend/assets/87653848/2baa6b40-0617-402a-8ccc-6f5b6eefb1cd)
