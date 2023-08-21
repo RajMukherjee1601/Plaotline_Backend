@@ -5,4 +5,3 @@ pip install pymongo
 prerequisite for Node.js
 npm init -y
 npm install express mongodb
-
